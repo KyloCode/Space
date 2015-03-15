@@ -1,3 +1,5 @@
+/* Parallax Layout */
+
 .parallax {
   height: 500px;
   height: 100vh;
@@ -22,6 +24,8 @@ div[class^="layer-"] {
   right: 0;
   bottom: 0;
 }
+
+/* Layers */
 
 .parallax .layer-fore {
   -webkit-transform: translateZ(90px) scale(.7);
